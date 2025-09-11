@@ -1,64 +1,86 @@
-<h1 align="center" style="color:#39FF14;">⚡ Hi 👋, I'm <span style="color:#00f0ff;">Asfand Ahmad</span> ⚡</h1>
-<h3 align="center" style="color:#00f0ff;">💻 A passionate CS Student at Fast Nuces 💻</h3>
+<!-- TITLE -->
+<h1 align="center" style="color:#228B22;">
+  🌲⚡ Hi, I'm <span style="color:#1E90FF;">Asfand Ahmad</span> ⚡🌲
+</h1>
+<h3 align="center" style="color:#228B22;">
+  💻 CS Student @ Fast Nuces | ⚡ Creator of Ideas & Code
+</h3>
 
+---
+
+<!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asfandahmad&label=Profile%20Views&color=39FF14&style=flat" alt="asfandahmad" />
+  <img src="https://komarev.com/ghpvc/?username=asfandahmad&label=⚡%20Storm%20Hits&color=228B22&style=for-the-badge" alt="profile views"/>
 </p>
 
+<!-- TROPHIES -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=asfandahmad&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="asfandahmad trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=asfandahmad&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="trophies"/>
   </a>
 </p>
 
 ---
 
-- 📫 Reach me at: **mrasfandahmed@gmail.com**  
-- ⚡ Fun fact: **Always sparking with new Ideas**  
+### ⚡ About Me
+- 🌩️ Exploring the synergy of **AI, Web, and Mobile Development**  
+- 🌲 Lover of **nature-inspired minimalism** & **storm-like innovation**  
+- 📫 Reach me at **mrasfandahmed@gmail.com**  
+- ⚡ Fun Fact: *Ideas strike me like lightning* ⚡  
 
 ---
 
-<h3 align="center" style="color:#39FF14;">🌐 Connect with me 🌐</h3>
+### 🌐 Connect with Me
 <p align="center">
   <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=00f0ff&logoColor=39FF14" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-228B22?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mrasfandahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0B3D91?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center" style="color:#00f0ff;">🛠️ Languages and Tools 🛠️</h3>
-<p align="center">  
-  <!-- Icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>  
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>  
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,postgresql,sqlite,flutter,django,html,css,tailwind,git,linux,figma,azure" />
 </p>
 
 ---
 
-<h3 align="center" style="color:#39FF14;">📊 GitHub Stats 📊</h3>
-
+### ⚡ Stats That Strike
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asfandahmad&show_icons=true&theme=tokyonight&title_color=39FF14&icon_color=00f0ff&text_color=00f0ff&bg_color=000000" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=asfandahmad&show_icons=true&theme=vision-friendly-dark&title_color=228B22&icon_color=1E90FF&text_color=1E90FF&bg_color=000000" alt="stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandahmad&theme=tokyonight&ring=39FF14&fire=00f0ff&currStreakLabel=39FF14" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandahmad&theme=dark&ring=228B22&fire=1E90FF&currStreakLabel=1E90FF&background=000000" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandahmad&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=39FF14&text_color=00f0ff&bg_color=000000" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandahmad&layout=compact&theme=vision-friendly-dark&title_color=228B22&text_color=1E90FF&bg_color=000000" alt="languages"/>
 </p>
 
 ---
 
-✨ *Glowing with Green & Blue Energy!* ✨
+### ⚡ Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asfandahmad&theme=github-dark&area=true&hide_border=true&color=1E90FF&line=228B22&point=39FF14&bg_color=000000" alt="activity graph"/>
+</p>
+
+---
+
+### 🎵 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=storm&colors=228B22,1E90FF" alt="quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=100&section=footer&text=⚡Code%20Like%20Lightning,%20Grow%20Like%20Forest🌲&fontColor=1E90FF" />
+</p>
