@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Asfand_Ahmad-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/asfand-ahmed-91b210278">
+    <img src="https://img.shields.io/badge/LinkedIn-Asfand_Ahmed-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/AsfandAhmad">
     <img src="https://img.shields.io/badge/GitHub-AsfandAhmad-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/asfandahmad">
-    <img src="https://img.shields.io/badge/LeetCode-asfandahmad-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/Asfand-Ahmed/">
+    <img src="https://img.shields.io/badge/LeetCode-Asfand--Ahmed-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>&nbsp;
   <a href="https://personalized-portfolio-khaki.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-B91C1C?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -27,7 +27,7 @@
   <a href="mailto:mrasfandahmed@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=asfandahmad&label=Profile+Views&color=B91C1C&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AsfandAhmad&label=Profile+Views&color=B91C1C&style=for-the-badge" alt="profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
@@ -73,14 +73,6 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsfandAhmad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ## 🌟 What I Build
 
 <table style="width:100%; text-align:center; border-collapse:collapse;">
@@ -111,13 +103,13 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/asfand-ahmed-91b210278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=EF4444"/>
   </a>
   <a href="https://github.com/AsfandAhmad">
     <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=EF4444"/>
   </a>
-  <a href="https://leetcode.com/asfandahmad">
+  <a href="https://leetcode.com/u/Asfand-Ahmed/">
     <img src="https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=EF4444"/>
   </a>
   <a href="https://personalized-portfolio-khaki.vercel.app/">
@@ -147,27 +139,14 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/asfandahmad?theme=dark&bgColor=0a0000&border=B91C1C" alt="LeetCode Stats"/>
+  <img src="https://leetcode-badge-sage.vercel.app/badge/Asfand-Ahmed?theme=dark&bgColor=0a0000&border=B91C1C" alt="LeetCode Stats"/>
 </p>
-
----
-
-## ⏱️ Wakatime Coding Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asfandahmad&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000&icon_color=FF6B00&layout=compact" alt="Wakatime Stats"/>
-</p>
-
-> 💡 **To activate this:** Sign up at [wakatime.com](https://wakatime.com), install the plugin in your IDE, then add your Wakatime username to the URL above.
 
 ---
 
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/AsfandAhmad/CivicLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=CivicLens&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="CivicLens"/>
-  </a>
   <a href="https://github.com/AsfandAhmad/SteamGamesRecommender">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=SteamGamesRecommender&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="Steam Recommender"/>
   </a>
@@ -189,7 +168,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 💡 Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+  <img src="https://readme-daily-quotes.cyclic.app/api?author=programming&theme=dark&quoteColor=EF4444&authorColor=FF6B00&bgColor=0a0000&borderColor=B91C1C" alt="Dev Quote"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
@@ -216,7 +195,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
 <p align="center">
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/asfand-ahmed-91b210278">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-B91C1C?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
