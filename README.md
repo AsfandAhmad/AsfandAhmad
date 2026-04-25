@@ -136,14 +136,6 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ---
 
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/Asfand-Ahmed?theme=dark&bgColor=0a0000&border=B91C1C" alt="LeetCode Stats"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 
 <p align="center">
@@ -165,11 +157,11 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
 
-## 💡 Dev Quote of the Day
+## 💡 Quote
 
-<p align="center">
-  <img src="https://readme-daily-quotes.cyclic.app/api?author=programming&theme=dark&quoteColor=EF4444&authorColor=FF6B00&bgColor=0a0000&borderColor=B91C1C" alt="Dev Quote"/>
-</p>
+> *"Code is like lightning: powerful, precise, and illuminating."*
+>
+> — Asfand Ahmad 🔥
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
 
