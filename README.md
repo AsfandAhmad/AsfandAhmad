@@ -18,9 +18,7 @@
   <a href="mailto:mrasfandahmed@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;
-  <a href="https://komarev.com/ghpvc/?username=asfandahmad">
-    <img src="https://img.shields.io/badge/Profile_Views-Tracking-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=asfandahmad&label=Profile+Views&color=B91C1C&style=for-the-badge" alt="profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
@@ -55,10 +53,16 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ## 🛠️ Skills & Tools
 
-**Languages & Frameworks**
-
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,postgresql,sqlite,flutter,django,html,css,tailwind,git,linux,figma,azure" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asfandahmad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -107,14 +111,30 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asfandahmad&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandahmad&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandahmad&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
 </p>
 
+---
+
+## 🧩 LeetCode Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandahmad&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
+  <img src="https://leetcode-badge-sage.vercel.app/badge/asfandahmad?theme=dark&bgColor=0a0000&border=B91C1C" alt="LeetCode Stats"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/asfandahmad/CivicLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asfandahmad&repo=CivicLens&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="CivicLens"/>
+  </a>
 </p>
 
 ---
