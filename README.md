@@ -8,12 +8,21 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+FAST-NUCES;Passionate+about+Software+Development+%26+AI;Building+Efficient+%26+Scalable+Solutions;Always+Learning%2C+Always+Growing;Open-Source+Contributor+%26+Problem+Solver" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+FAST-NUCES;Full-Stack+Dev+%7C+AI+Explorer+%7C+Systems+Thinker;Built+a+Steam+Recommender%2C+LMS+%26+more...;Always+Learning%2C+Always+Shipping+%F0%9F%94%A5;Open-Source+Contributor+%26+Problem+Solver" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Asfand_Ahmad-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/AsfandAhmad">
+    <img src="https://img.shields.io/badge/GitHub-AsfandAhmad-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://leetcode.com/asfandahmad">
+    <img src="https://img.shields.io/badge/LeetCode-asfandahmad-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://personalized-portfolio-khaki.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-B91C1C?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:mrasfandahmed@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -25,9 +34,13 @@
 
 ## 🔥 About Me
 
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
+
 I'm a **CS student at FAST-NUCES** passionate about **software development, AI, and systems design**. I focus on building **efficient and scalable solutions** — from full-stack web apps to AI-integrated systems.
 
 I believe in continuous learning, clean architecture, and shipping things that actually work.
+
+<br clear="right"/>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
@@ -39,6 +52,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 | 🔥 **Primary Focus** | Software Development · AI · Systems Design |
 | 🌐 **Stack** | Python · C++ · JS · React · Node · Flutter · Django |
 | 🧩 **Approach** | Efficient · Scalable · Clean Architecture |
+| 🌍 **Portfolio** | [personalized-portfolio-khaki.vercel.app](https://personalized-portfolio-khaki.vercel.app/) |
 | 📫 **Contact** | mrasfandahmed@gmail.com |
 
 ---
@@ -62,7 +76,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asfandahmad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AsfandAhmad&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -100,6 +114,15 @@ I believe in continuous learning, clean architecture, and shipping things that a
   <a href="https://linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=EF4444"/>
   </a>
+  <a href="https://github.com/AsfandAhmad">
+    <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=EF4444"/>
+  </a>
+  <a href="https://leetcode.com/asfandahmad">
+    <img src="https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=EF4444"/>
+  </a>
+  <a href="https://personalized-portfolio-khaki.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-1a0000?style=for-the-badge&logo=vercel&logoColor=EF4444"/>
+  </a>
   <a href="mailto:mrasfandahmed@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
   </a>
@@ -110,13 +133,13 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asfandahmad&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmad&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asfandahmad&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsfandAhmad&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asfandahmad&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmad&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -129,11 +152,27 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ---
 
+## ⏱️ Wakatime Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=asfandahmad&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000&icon_color=FF6B00&layout=compact" alt="Wakatime Stats"/>
+</p>
+
+> 💡 **To activate this:** Sign up at [wakatime.com](https://wakatime.com), install the plugin in your IDE, then add your Wakatime username to the URL above.
+
+---
+
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/asfandahmad/CivicLens">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=asfandahmad&repo=CivicLens&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="CivicLens"/>
+  <a href="https://github.com/AsfandAhmad/CivicLens">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=CivicLens&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="CivicLens"/>
+  </a>
+  <a href="https://github.com/AsfandAhmad/SteamGamesRecommender">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=SteamGamesRecommender&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="Steam Recommender"/>
+  </a>
+  <a href="https://github.com/AsfandAhmad/Learning_Management_system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=Learning_Management_system&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="LMS"/>
   </a>
 </p>
 
@@ -142,16 +181,16 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 📈 Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asfandahmad&bg_color=0a0000&color=EF4444&line=B91C1C&point=FF6B00&area=true&area_color=7B0000&hide_border=false&border_color=B91C1C" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsfandAhmad&bg_color=0a0000&color=EF4444&line=B91C1C&point=FF6B00&area=true&area_color=7B0000&hide_border=false&border_color=B91C1C" alt="Activity Graph"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
 
-## 💡 Quote of the Day
+## 💡 Dev Quote of the Day
 
-<blockquote style="color: #EF4444; font-style: italic; border-left: 3px solid #EF4444; padding-left: 10px;">
-  "Code is like lightning: powerful, precise, and illuminating." ~Asfand Ahmad
-</blockquote>
+<p align="center">
+  <img src="https://quotes-github-profile.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
 
@@ -159,9 +198,9 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asfandahmad/asfandahmad/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asfandahmad/asfandahmad/output/github-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/asfandahmad/asfandahmad/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsfandAhmad/AsfandAhmad/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsfandAhmad/AsfandAhmad/output/github-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AsfandAhmad/AsfandAhmad/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -179,6 +218,10 @@ I believe in continuous learning, clean architecture, and shipping things that a
 <p align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-B91C1C?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://personalized-portfolio-khaki.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-Vercel-B91C1C?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
