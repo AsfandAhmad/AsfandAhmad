@@ -52,7 +52,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 | 🔥 **Primary Focus** | Software Development · AI · Systems Design |
 | 🌐 **Stack** | Python · C++ · JS · React · Node · Flutter · Django |
 | 🧩 **Approach** | Efficient · Scalable · Clean Architecture |
-| 🌍 **Portfolio** | [personalized-portfolio-khaki.vercel.app](https://personalized-portfolio-khaki.vercel.app/) |
+| 🌍 **Portfolio** | [personalized-portfolio-khaki.vercel.app](asfandahmedportfolio.vercel.app) |
 | 📫 **Contact** | mrasfandahmed@gmail.com |
 
 ---
